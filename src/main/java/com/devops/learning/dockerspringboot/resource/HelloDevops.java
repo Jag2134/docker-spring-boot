@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloDevops {
     @GetMapping
     public String devops(){
-        return "Docker integration with jenkins started";
+        return "Docker integration with jenkins Ended";
     }
 }
